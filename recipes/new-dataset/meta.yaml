@@ -28,4 +28,4 @@ maintainers:
     orcid: "0000-0001-5999-4917"
     github: rabernat
 bakery:
-  id: "local-test-bakery"
+  id: "pangeo-ldeo-nsf-earthcube"
